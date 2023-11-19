@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "halo juga"
+    },
+    {
+      "question": "hai",
+      "answer": "hai juga"
+    },
+    {
+      "question": "apakabar?",
+      "answer": "kabar baik, kamu gimana?"
+    },
+    {
+      "question": "baik juga",
+      "answer": "wah seneng dengernya"
+    },
+    {
+      "question": "lagi apa nih",
+      "answer": "lagi santai aja"
+    },
+    {
+      "question": "heyy",
+      "answer": "heyy jugaa divv"
+    },
+    {
+      "question": "udh makan belum?",
+      "answer": "udah dong mkn nasgor"
+    }
+  ]
+}
